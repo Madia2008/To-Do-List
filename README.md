@@ -56,12 +56,6 @@ The app is responsive and works well on:
 
 ---
 
-## 📸 Preview
-
-*(Add a screenshot of your app here)*
-
----
-
 ## 💜 Author
 
 **Madia**  
